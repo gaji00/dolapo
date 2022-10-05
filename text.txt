@@ -1,0 +1,2 @@
+this is the algorithm of how my code should work
+I learnt some algorithm which i will put in place here
